@@ -1,0 +1,5 @@
+Name	Enrollment Number	Courses		Slots
+aziz	BT21CSE076		P C M B CS   	1 2 3 4 5 
+Gajanan	BT21CSE079		P C M B CS   	1 2 3 4 5 
+Anshu	BT21CSE080		P C M B CS   	1 2 3 4 5 
+Babloo	BT21CSE092		P C M B CS   	1 2 3 4 5 
